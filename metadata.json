@@ -1,0 +1,6 @@
+{
+  "name": "Karşıyaka Akademi - Özel Öğretim Kursu & Deneme Kulübü",
+  "description": "Bingöl'de 10 kişilik VIP sınıflar, 60+ seçkin yayınla deneme kulübü, randevulu soru çözümü ve birebir koçluk ile YKS (TYT-AYT-YDT) hazırlık kursu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
